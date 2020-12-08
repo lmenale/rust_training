@@ -1,0 +1,12 @@
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - init: 'echo "TODO: Replace with init/build command"'
+    command: 'echo "TODO: Replace with command to start project"'
+
+vscode:
+  extensions:
+    - matklad.rust-analyzer@0.2.408:LHyITYtD4lqtt9DKanjMIw==
+    - vadimcn.vscode-lldb@1.6.0:tbQLAVn9tjDxr5QEpv1W+A==
+    - bungcip.better-toml@0.3.2:bHWX++/U0u3IDNSrnlEAeA==
